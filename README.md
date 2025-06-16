@@ -52,12 +52,12 @@
 
 ## 🤝 Контакты
 
-- Telegram: [@qqweweqewe](https://t.me/qqweweqewe)
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/qqweweqewe)
     
-- Email: [golubkovivan4@gmail.com](https://mailto:golubkovivan4@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-e24a3f?style=flat&logo=gmail&logoColor=white)](https://mailto:golubkovivan4@gmail.com)
 
-- Leetcode: [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/qqweweqewe/)
-    
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/qqweweqewe/)
+
 - Резюме/Портфолио: WIP
     
 ---
