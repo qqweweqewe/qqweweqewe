@@ -1,6 +1,6 @@
 <div align="center">
   
-<h2> Привет! Я Иван, начинающий Rust Разработчик 🦀 <br></h2>
+<h2> Иван, начинающий Rust Разработчик 🦀 <br></h2>
 <b>Системное программирование | Linux | DevOps</b><br>
 Учусь создавать эффективные и безопасные системы
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Технологии, которые я изучаю
+## 🛠️ Технологии
 
 ### 💻 Основной стек
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -32,7 +32,7 @@
 
 ---
 
-## 📖 Ресурсы, используемые (и рекомендуемые) мной
+## 📖 Ресурсы
 
 - **Книги:**
     
@@ -49,7 +49,10 @@
     - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)       
 
 ---
+## 💻 LeetCode потому что могу
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=qqweweqewe&theme=dark)](https://leetcode.com/qqweweqewe/)
 
+---
 ## 🤝 Контакты
 
 - [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/qqweweqewe)
