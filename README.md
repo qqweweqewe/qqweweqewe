@@ -15,10 +15,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009900?style=flat&logo=NGINX&logoColor=white)
 
 ### 🔧 Инструменты в процессе освоения
 ![Terraform](https://img.shields.io/badge/Terraform-5c4ee5?style=flat&logo=TERRAFORM&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009900?style=flat&logo=NGINX&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
@@ -41,6 +41,8 @@
     - "Rust in Action" (Tim McNamara)
         
     - "Asynchronous Programming in Rust" (Carl Fredrik Samson)
+    
+    - "Nginx Cookbook" (Tim Butler) 
      
 - **Курсы:**
     
