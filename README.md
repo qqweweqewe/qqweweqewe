@@ -63,7 +63,7 @@
 
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/qqweweqewe/)
 
-- Резюме/Портфолио: WIP
+- [Портфолио](https://qwew.space)
     
 ---
 
