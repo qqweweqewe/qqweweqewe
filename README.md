@@ -10,8 +10,8 @@
 ---
 
 ## интересности
-- **[qwewginx](https://github.com/qqweweqewe/qwewginx)** - прокси-сервер, вдохновленный не угадаете чем. но конечно же на rust. reverse proxy, tls, воркеры. начинался как «а что если переписать для себя», сейчас уже можно погонять локально.
-- **[qwewginx-plugin-registry](https://github.com/qqweweqewe/qwewginx-plugin-registry)** — реестр wasm-плагинов для qwewginx (фича в разработке). хранит артефакты, отдаёт по http. sdk для разработки своего добра скоро будет
+- **[qwewginx](https://github.com/qqweweqewe/qwewginx)** - прокси-сервер на rust. начинался как "о прикольно будет", сейчас уже можно погонять локально.
+- **[qwewginx-plugin-registry](https://github.com/qqweweqewe/qwewginx-plugin-registry)** — реестр wasm-плагинов для qwewginx (фича в разработке). хранит артефакты, отдаёт по http. sdk для разработки плагинов
 
 ---
 
