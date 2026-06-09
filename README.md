@@ -26,8 +26,8 @@
 
 ---
 
-## LeetCode потому что могу
-[![LeetCode Stats](https://leetcode.card.workers.dev/?username=qqweweqewe&theme=dark)](https://leetcode.com/qqweweqewe/)
+## leetcode потому что могу
+[![leetcode](https://leetcard.jacoblin.cool/qqweweqewe?theme=dark&animation=false)](https://leetcode.com/u/qqweweqewe/)
 
 ---
 
